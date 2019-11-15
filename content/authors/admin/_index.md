@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a Ph.D. candidate in the Department of Management Information Systems at the University of Arizona. Find me [here](/).
 
 interests:
 - Fake News Detection
