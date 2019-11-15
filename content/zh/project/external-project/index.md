@@ -1,12 +1,12 @@
 ---
 title: External Project
-summary: An examples of linking directly to an external project website using `external_link`.
+summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: /files/cv.pdf
+external_link: http://example.orgs
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
