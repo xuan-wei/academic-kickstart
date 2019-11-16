@@ -33,7 +33,7 @@ education:
     institution: University of Arizona
     year: 2020 (expected)
   - course: B.S. in Mathematics and Applied Mathematics
-    institution: Shanghai Jiao Tong University
+    institution: 上海交通大学
     year: 2014
 
 # Social/Academic Networking
